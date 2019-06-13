@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Robot",
+            "request": "launch",
+            "mainClass": "exercise1.b.Robot",
+            "projectName": "workshop_1083f1de"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "workshop_1083f1de"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "exercise1.Test",
+            "projectName": "workshop_1083f1de"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Car",
+            "request": "launch",
+            "mainClass": "exercise1.Car",
+            "projectName": "workshop_1083f1de"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Robot",
+            "request": "launch",
+            "mainClass": "Robot",
+            "projectName": "workshop_1083f1de"
+        }
+    ]
+}
